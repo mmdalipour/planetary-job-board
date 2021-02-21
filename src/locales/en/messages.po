@@ -1,0 +1,132 @@
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2021-02-04 16:41+0330\n"
+"Mime-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: @lingui/cli\n"
+"Language: en\n"
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Plural-Forms: \n"
+
+#: src/components/AppBar/index.tsx:52
+msgid "<0>About Us</0>"
+msgstr "<0>About Us</0>"
+
+#: src/components/AppBar/index.tsx:49
+msgid "<0>Jobs</0>"
+msgstr "<0>Jobs</0>"
+
+#: src/pages/AboutUs/index.tsx:19
+msgid "About Us"
+msgstr "About Us"
+
+#: src/pages/Jobs/index.tsx:167
+msgid "Advanced Filter"
+msgstr "Advanced Filter"
+
+#: src/pages/Jobs/index.tsx:170
+msgid "Clear Filter"
+msgstr "Clear Filter"
+
+#: src/pages/Home/index.tsx:83
+msgid "Find a Job"
+msgstr "Find a Job"
+
+#: src/components/LogoWithTitle/index.tsx:30
+msgid "Find your favorite remote job"
+msgstr "Find your favorite remote job"
+
+#: src/pages/Home/index.tsx:69
+msgid "JOB BOARD"
+msgstr "JOB BOARD"
+
+#: src/pages/Jobs/index.tsx:155
+msgid "Job List"
+msgstr "Job List"
+
+#: src/components/FilterBar/index.tsx:39
+#~ msgid "Job Types"
+#~ msgstr "Job Types"
+
+#: src/pages/AboutUs/index.tsx:22
+#: src/pages/Home/index.tsx:73
+msgid "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries"
+msgstr "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries"
+
+#: src/pages/Jobs/index.tsx:184
+msgid "MOST PAID"
+msgstr "MOST PAID"
+
+#: src/App.tsx:21
+#~ msgid "Message Inbox"
+#~ msgstr "Message Inbox"
+
+#: src/pages/Jobs/index.tsx:182
+msgid "NEWEST"
+msgstr "NEWEST"
+
+#: src/components/FilterBar/index.tsx:43
+#~ msgid "Necessary Skills"
+#~ msgstr "Necessary Skills"
+
+#: src/pages/Jobs/index.tsx:183
+msgid "OLDEST"
+msgstr "OLDEST"
+
+#: src/pages/Home/index.tsx:67
+msgid "PLANETARY"
+msgstr "PLANETARY"
+
+#: src/pages/Jobs/index.tsx:181
+msgid "SORT BY"
+msgstr "SORT BY"
+
+#: src/pages/Jobs/index.tsx:191
+msgid "TODAY"
+msgstr "TODAY"
+
+#: src/utils/index.tsx:11
+msgid "Today"
+msgstr "Today"
+
+#: src/pages/Home/index.tsx:65
+msgid "WELCOME TO"
+msgstr "WELCOME TO"
+
+#: src/utils/index.tsx:14
+msgid "Yesterday"
+msgstr "Yesterday"
+
+#: src/pages/Jobs/index.tsx:184
+msgid "mostpaid"
+msgstr "mostpaid"
+
+#: src/pages/Jobs/index.tsx:145
+#: src/pages/Jobs/index.tsx:182
+msgid "newest"
+msgstr "newest"
+
+#: src/pages/Jobs/index.tsx:183
+msgid "oldest"
+msgstr "oldest"
+
+#: src/components/AppBar/index.tsx:29
+#~ msgid "search by job title or company name..."
+#~ msgstr "search by job title or company name..."
+
+#: src/pages/Jobs/index.tsx:157
+msgid "search for job title"
+msgstr "search for job title"
+
+#: src/components/AppBar/index.tsx:32
+#~ msgid "where in the galaxy you want to work..."
+#~ msgstr "where in the galaxy you want to work..."
+
+#: src/pages/Home/index.tsx:65
+#~ msgid "xWELCOME TO"
+#~ msgstr "xWELCOME TO"
